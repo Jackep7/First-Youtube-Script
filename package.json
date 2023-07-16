@@ -1,0 +1,23 @@
+{
+  "name": "first-puppeteer-scraper-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Jacob Petersson",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^20.3.1",
+    "puppeteer": "^20.7.4",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "word-wrap": "^1.2.3"
+  },
+  "type": "module",
+  "types": "module",
+  "devDependencies": {},
+  "description": ""
+}
