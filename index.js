@@ -1,7 +1,6 @@
 import puppeteer from "puppeteer";
 //  Ange Sökord
 const SearchTermCli = process.argv.length >= 3 ? process.argv[2] : "";
-const searchTermENV = process.env.SEARCHTXT ?? "Green day";
 
 // Öppna Webbläsare fullscreen
 (async () => {
