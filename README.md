@@ -1,2 +1,2 @@
-The First YOUTUBE Script i did with Puppeteer!
+The First YOUTUBE Script i did with Puppeteer
 # First-Youtube-Script
